@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /
+
+Sitemap: https://durducco-source.github.io/maison-zahra/sitemap.xml

@@ -1,0 +1,27 @@
+2:"$Sreact.fragment"
+3:"/maison-zahra/_next/static/chunks/3qfy96eoyh-ek.js"
+4:"/maison-zahra/_next/static/chunks/00d64_zc6tvjo.js"
+5:I[39756,["$3","$4"],"default"]
+6:I[37457,["$3","$4"],"default"]
+b:I[22016,["$3","$4"],""]
+c:I[97367,["$3","$4"],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[97367,["$3","$4"],"$10"]
+12:"MetadataBoundary"
+13:I[97367,["$3","$4"],"$12"]
+14:I[27201,["$3","$4"],"IconMark"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","section",null,{"className":"relative flex min-h-[90svh] items-center overflow-hidden bg-emerald-deep text-bone","children":[["$","div",null,{"className":"pattern-star pointer-events-none absolute inset-0 opacity-15","aria-hidden":"true"}],["$","svg",null,{"viewBox":"0 0 200 300","className":"pointer-events-none absolute top-1/2 left-1/2 h-[80vh] -translate-x-1/2 -translate-y-1/2 text-gold-light/30","aria-hidden":"true","fill":"none","stroke":"currentColor","strokeWidth":"0.5","children":[["$","path",null,{"d":"M1 299V100C1 45.3 45.3 1 100 1s99 44.3 99 99v199"}],["$","path",null,{"d":"M13 299V102c0-48 39-89 87-89s87 41 87 89v197","opacity":"0.6"}],["$","path",null,{"d":"M25 299V104c0-41.4 33.6-79 75-79s75 37.6 75 79v195","opacity":"0.35"}]]}],["$","div",null,{"className":"relative mx-auto max-w-2xl px-5 pt-24 text-center","children":[["$","p",null,{"className":"eyebrow text-gold-light","children":"Error 404"}],["$","h1",null,{"className":"display-lg mt-6","children":["Esta puerta ",["$","em",null,{"children":"no lleva a ningún patio."}]]}],["$","p",null,{"className":"mt-6 text-bone/75","children":"La página que buscas no existe o ha cambiado de lugar."}],["$","div",null,{"className":"mt-10 flex flex-col justify-center gap-3 sm:flex-row","children":[["$","$Lb",null,{"href":"/","className":"btn btn-light","children":["Volver al inicio",["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":1.25,"strokeLinecap":"round","strokeLinejoin":"round","className":"btn-arrow size-4","aria-hidden":true,"children":[null,["$","path",null,{"d":"M4 12h16M14 6l6 6-6 6"}]]}]]}],["$","$Lb",null,{"href":"/coleccion","className":"btn btn-outline-light","children":"Ver la colección"}]]}]]}]]}],null,["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":"$@f","v":null,"s":"$9"}}]]
+1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0b2921"}]]}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Maison Zahra — Alojamientos de autor en Marrakech"}],["$","meta","1",{"name":"description","content":"Maison Zahra reúne tres alojamientos en Marrakech —dos apartamentos en Gueliz y una habitación en un riad de la medina— cuidados personalmente por su anfitriona."}],["$","meta","2",{"name":"application-name","content":"Maison Zahra"}],["$","meta","3",{"name":"keywords","content":"Marrakech,apartamentos Marrakech,riad Marrakech,Gueliz,medina de Marrakech,alojamiento con piscina Marrakech,alquiler vacacional Marrakech"}],["$","meta","4",{"name":"robots","content":"noindex, nofollow"}],["$","link","5",{"rel":"canonical","href":"https://durducco-source.github.io/maison-zahra/"}],["$","meta","6",{"name":"format-detection","content":"telephone=no"}],["$","meta","7",{"property":"og:title","content":"Maison Zahra — Alojamientos de autor en Marrakech"}],["$","meta","8",{"property":"og:description","content":"Maison Zahra reúne tres alojamientos en Marrakech —dos apartamentos en Gueliz y una habitación en un riad de la medina— cuidados personalmente por su anfitriona."}],["$","meta","9",{"property":"og:site_name","content":"Maison Zahra"}],["$","meta","10",{"property":"og:locale","content":"es_ES"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"Maison Zahra — Alojamientos de autor en Marrakech"}],["$","meta","14",{"name":"twitter:description","content":"Maison Zahra reúne tres alojamientos en Marrakech —dos apartamentos en Gueliz y una habitación en un riad de la medina— cuidados personalmente por su anfitriona."}],["$","link","15",{"rel":"icon","href":"/maison-zahra/icon.svg?icon.39ixd6s_5tt3v.svg","sizes":"any","type":"image/svg+xml"}],["$","$L14","16",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@15","v":null,"s":"$9"}},"a":"$@16","u":"$@17","b":"tMCENARqNZJV4kZT9Ccos"}
+e:null
+17:true
+9:300
+9:C
+16:0
+7:"$undefined"
+15:"$undefined"
+f:"$undefined"
